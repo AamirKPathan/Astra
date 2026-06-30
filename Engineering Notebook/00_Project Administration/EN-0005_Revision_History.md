@@ -44,4 +44,6 @@ This document records program-level revisions affecting multiple subsystems or t
 Program revisions may include:
 
 - Engineering notebook updates
-- Repos
+- Repository structure changes
+- Architecture revisions
+-
