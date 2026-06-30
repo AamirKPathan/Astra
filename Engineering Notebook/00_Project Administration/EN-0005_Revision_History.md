@@ -71,3 +71,9 @@ Major revisions should increment:
 - Major (X.0.0)
 - Minor (0.X.0)
 - Patch (0.0.X)
+
+---
+
+# 6. Future Updates
+
+Th
