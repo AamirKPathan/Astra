@@ -11,4 +11,4 @@
 | MIS    | Mission Operations             |
 | REF    | References / Appendices        |
 | REQ    | Requirements                   |
-| REF    | References / Appendices        |
+| STD    | Standards                      |
