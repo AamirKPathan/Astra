@@ -75,7 +75,7 @@ SW-001_Software_Architecture.md
 MECH-001_Airframe.md
 ELEC-001_Power_System.md
 
-For full breakdown of prefixes refer to Astra/Document Templates And Breakdowns/Prefix_Definitions.md
+For full breakdown of prefixes refer to Astra/Governing Standrds/Prefix_Definitions.md
 
 File names shall:
 
