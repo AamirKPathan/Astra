@@ -48,4 +48,5 @@ Program revisions may include:
 - Architecture revisions
 - Requirements Updates
 - Software Milestones
-- Ha
+- Hardware Milestones
+- Testing mi
