@@ -49,4 +49,6 @@ Program revisions may include:
 - Requirements Updates
 - Software Milestones
 - Hardware Milestones
-- Testing mi
+- Testing Milestones
+- Mission Milestones
+
