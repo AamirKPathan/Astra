@@ -41,4 +41,7 @@ This document records program-level revisions affecting multiple subsystems or t
 
 # 3. Revision Categories
 
-Progra
+Program revisions may include:
+
+- Engineering notebook updates
+- Repos
