@@ -88,4 +88,4 @@ This document shall be updated whenever significant project milestones have been
 
 ---
 
-# Ad Ast
+# Ad Astra Per Artem
