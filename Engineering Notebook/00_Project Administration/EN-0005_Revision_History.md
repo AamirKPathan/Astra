@@ -76,4 +76,4 @@ Major revisions should increment:
 
 # 6. Future Updates
 
-Th
+This document shall be updated whenever significant project
