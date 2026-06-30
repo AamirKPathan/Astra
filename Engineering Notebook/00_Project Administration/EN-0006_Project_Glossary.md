@@ -81,4 +81,3 @@ The glossary shall be updated whenever new technical terminology becomes part of
 ---
 
 # Ad Astra Per Artem
-```
