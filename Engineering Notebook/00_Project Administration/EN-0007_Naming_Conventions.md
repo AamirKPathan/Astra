@@ -63,6 +63,8 @@ The glossary promotes consistent communication and interpretation of engineering
 
 Engineering abbreviations shall be defined upon first use in any document.
 
+Additionally all Engineering Abbreviations shall be defi
+
 ---
 
 # 4. Maintenance
