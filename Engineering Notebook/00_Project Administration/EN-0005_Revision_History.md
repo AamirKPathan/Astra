@@ -31,4 +31,6 @@ It provides a centralized revision history for major engineering documentation u
 
 ---
 
-# 2. Revisio
+# 2. Revision policy
+
+Each engineering document shall maintain its own revision history
