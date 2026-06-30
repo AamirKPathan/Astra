@@ -25,4 +25,4 @@ EN-0004
 
 # 1. Purpose
 
-This document records significant revisions made throughout the
+This document records significant revisions made throughout the lifetime of the ASTRA Autonomo
