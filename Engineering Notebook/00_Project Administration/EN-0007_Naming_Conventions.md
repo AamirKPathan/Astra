@@ -63,7 +63,7 @@ The glossary promotes consistent communication and interpretation of engineering
 
 Engineering abbreviations shall be defined upon first use in any document.
 
-Additionally all Engineering Abbreviations shall be defined in Astra/Governing Standa
+Additionally all Engineering Abbreviations shall be defined in Astra/Governing Standards/Engineering_Abbr
 
 ---
 
