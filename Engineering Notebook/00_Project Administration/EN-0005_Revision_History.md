@@ -36,3 +36,9 @@ It provides a centralized revision history for major engineering documentation u
 Each engineering document shall maintain its own revision history.
 
 This document records program-level revisions affecting multiple subsystems or the overall project.
+
+---
+
+# 3. Revision Categories
+
+Progra
