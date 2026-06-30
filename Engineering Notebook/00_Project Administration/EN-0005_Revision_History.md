@@ -25,4 +25,4 @@ EN-0004
 
 # 1. Purpose
 
-Th
+This document records significant revisions made throughout the
