@@ -76,4 +76,9 @@ Major revisions should increment:
 
 # 6. Future Updates
 
-This document shall be updated whenever significant project
+This document shall be updated whenever significant project milestones have been achieved.
+
+---
+
+# 7. Revision History
+
