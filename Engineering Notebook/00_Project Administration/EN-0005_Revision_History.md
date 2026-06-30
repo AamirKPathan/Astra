@@ -64,4 +64,8 @@ Program revisions may include:
 
 # 5. Document Revision Policy
 
-Individual engineering documents shall maintaint heir own revision
+Individual engineering documents shall maintaint heir own revision history.
+
+Major revisions should increment:
+
+- Maj
