@@ -1,4 +1,3 @@
-```md
 # EN-0006 - Project Glossary
 
 Document Number:
