@@ -82,3 +82,10 @@ This document shall be updated whenever significant project milestones have been
 
 # 7. Revision History
 
+| Revision | Date | Description |
+|----------|------------|-------------|
+| 0.1.0 | 30-06-2026 | Initial document. |
+
+---
+
+# Ad Ast
