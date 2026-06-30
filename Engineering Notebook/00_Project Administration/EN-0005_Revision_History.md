@@ -69,4 +69,5 @@ Individual engineering documents shall maintaint heir own revision history.
 Major revisions should increment:
 
 - Major (X.0.0)
-- Minor (0.X)
+- Minor (0.X.0)
+- Patch (0.0.X)
