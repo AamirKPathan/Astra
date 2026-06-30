@@ -27,4 +27,8 @@ EN-0004
 
 This document records significant revisions made throughout the lifetime of the ASTRA Autonomous Flight System (AAFS) engineering program.
 
-It provides a centralized revision history for major engineering documentation updates, repository changes, and system devel
+It provides a centralized revision history for major engineering documentation updates, repository changes, and system developments.
+
+---
+
+# 2. Revisio
