@@ -1,4 +1,3 @@
-```md
 # EN-0009 - Engineering Decision Log
 
 Document Number:
