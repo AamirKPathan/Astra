@@ -26,7 +26,7 @@ Project Administration
 
 Related Documents:
 EN-0004
-STD-001_Requirements_Standard.md
+STD-REQ-001_Requirements_Standard.md
 SYS-001
 SYS-002
 SYS-003
