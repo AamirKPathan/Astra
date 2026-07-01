@@ -1,4 +1,3 @@
-```md
 # EN-0009 - Engineering Decision Log
 
 Document Number:
@@ -221,4 +220,3 @@ Follow-up Actions:
 ---
 
 # Ad Astra Per Artem
-```
