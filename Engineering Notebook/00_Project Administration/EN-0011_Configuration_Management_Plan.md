@@ -1,4 +1,3 @@
-```md id="u3jv91"
 # EN-0011 - Configuration Management Plan
 
 Document Number:
@@ -195,4 +194,3 @@ Contributors shall ensure their work complies with this Configuration Management
 ---
 
 # Ad Astra Per Artem
-```
