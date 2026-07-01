@@ -1,4 +1,3 @@
-```md
 # EN-0012 - Verification and Validation Strategy
 
 Document Number:
@@ -187,4 +186,3 @@ Contributors are responsible for ensuring their work satisfies applicable requir
 ---
 
 # Ad Astra Per Artem
-```
