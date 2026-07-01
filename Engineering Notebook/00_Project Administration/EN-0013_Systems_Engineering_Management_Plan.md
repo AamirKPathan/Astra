@@ -79,7 +79,7 @@ The ASTRA development lifecycle consists of the following phases:
 
 4. Preliminary Design
 
-5. Detailed Design
+5. Detaile d Design
 
 6. Implementation
 
