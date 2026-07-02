@@ -8,7 +8,7 @@ Author: Aamir Khan Pathan
 
 Date Created: 29-06-2026
 
-Last Modified: 01-07-2026
+Last Modified: 02-07-2026
 
 Revision: 0.2.0
 
@@ -168,7 +168,7 @@ Each notebook entry should provide sufficient technical detail to allow another 
 | Revision | Date | Description |
 |----------|------------|-------------|
 | 0.1.0 | 29-06-2026 | Initial project initialization document. |
-| 0.2.0 | 01-07-2026 | Revised project scope to remove autonomous powered landing from the baseline architecture. Updated the project vision and objectives to emphasize autonomous flight stabilization, guidance, navigation, telemetry, and recovery system operations. |
+| 0.2.0 | 02-07-2026 | Revised project scope to remove autonomous powered landing from the baseline architecture. Updated the project vision and objectives to emphasize autonomous flight stabilization, guidance, navigation, telemetry, and recovery system operations. |
 
 ---
 
