@@ -1,4 +1,5 @@
 # EN-0002 - Development Roadmap
+
 Document Number:
 EN-0002
 
@@ -11,8 +12,11 @@ Aamir Khan Pathan
 Created:
 29-06-2026
 
+Last Modified:
+01-07-2026
+
 Revision:
-0.1
+0.2.0
 
 Status:
 Draft
@@ -27,6 +31,7 @@ ROADMAP.md
 ---
 
 # 1. Purpose
+
 The purpose of this document is to establish the planned development strategy for the ASTRA Autonomous Flight System.
 
 This roadmap defines the engineering phases, major milestones, dependencies, expected deliverables, and success criteria that will guide development throughout the project's lifecycle.
@@ -120,6 +125,9 @@ Deliverables
 ✓ Documentation Standards
 
 ✓ Engineering Notebook
+
+---
+
 ## Phase I
 
 Systems Engineering
@@ -139,6 +147,9 @@ Risk Assessment
 Success Criteria
 
 Complete engineering baseline documentation.
+
+---
+
 ## Phase II
 
 Simulation
@@ -158,6 +169,9 @@ Guidance Testing
 Deliverable
 
 Simulation capable of validating flight software.
+
+---
+
 ## Phase III
 
 Flight Software
@@ -168,13 +182,16 @@ Navigation
 
 Guidance
 
-Control
-
-Recovery
+Flight Stabilization
 
 Telemetry
 
 Logging
+
+Recovery System Deployment
+
+---
+
 ## Phase IV
 
 Ground Control
@@ -192,6 +209,9 @@ Flight Replay
 Configuration
 
 Diagnostics
+
+---
+
 ## Phase V
 
 Hardware
@@ -209,6 +229,9 @@ PCB
 Mechanical Integration
 
 Bench Testing
+
+---
+
 ## Phase VI
 
 Integration
@@ -222,6 +245,9 @@ Software Integration
 Communication
 
 Subsystem Validation
+
+---
+
 ## Phase VII
 
 Flight Testing
@@ -285,6 +311,7 @@ Merge
 ---
 
 # 5. Milestones
+
 M1 Repository Established
 
 M2 Engineering Notebook Complete
@@ -303,7 +330,7 @@ M8 Integrated System
 
 M9 First Successful Flight
 
-M10 Controlled Recovery
+M10 Successful Autonomous Flight with Telemetry and Recovery
 
 ---
 
@@ -327,8 +354,6 @@ Phase II Exit Criteria
 
 # 7. Risks
 
-You don't need to go into detail yet—just identify them.
-
 Major Risks
 
 Software complexity
@@ -343,13 +368,19 @@ Communication failures
 
 Schedule growth
 
+Environmental conditions
+
+Recovery system failure
+
 ---
 
 # 8. Revision History
-Revision
 
-0.1
+| Revision | Date | Description |
+|----------|------------|-------------|
+| 0.1.0 | 29-06-2026 | Initial development roadmap. |
+| 0.2.0 | 01-07-2026 | Updated roadmap to remove autonomous powered landing from the project scope. Revised Phase III objectives to emphasize flight stabilization and recovery system deployment. Updated final program milestone to reflect autonomous flight, telemetry, and recovery operations. |
 
-Initial document.
+---
 
 # Ad Astra Per Artem
