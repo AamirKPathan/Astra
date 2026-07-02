@@ -13,7 +13,7 @@ Created:
 29-06-2026
 
 Last Modified:
-01-07-2026
+02-07-2026
 
 Revision:
 0.2.0
@@ -379,7 +379,7 @@ Recovery system failure
 | Revision | Date | Description |
 |----------|------------|-------------|
 | 0.1.0 | 29-06-2026 | Initial development roadmap. |
-| 0.2.0 | 01-07-2026 | Updated roadmap to remove autonomous powered landing from the project scope. Revised Phase III objectives to emphasize flight stabilization and recovery system deployment. Updated final program milestone to reflect autonomous flight, telemetry, and recovery operations. |
+| 0.2.0 | 02-07-2026 | Updated roadmap to remove autonomous powered landing from the project scope. Revised Phase III objectives to emphasize flight stabilization and recovery system deployment. Updated final program milestone to reflect autonomous flight, telemetry, and recovery operations. |
 
 ---
 
