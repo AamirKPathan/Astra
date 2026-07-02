@@ -36,7 +36,7 @@ ASTRA Autonomous Flight System
 
 # Vision
 
-ASTRA is intended to become a modular autonomous flight platform capable of estimating vehicle state, collecting and transmitting telemetry, executing autonomous guidance and flight stabilization algorithms, and supporting safe recovery system operations.
+ASTRA is intended to become a modular autonomous flight platform capable of collecting telemetry, estimating vehicle state, executing autonomous guidance and flight stabilization algorithms, and supporting safe recovery system operations.
 
 The project is designed as a long-term engineering initiative focused on learning and applying principles from:
 
@@ -66,8 +66,7 @@ The initial goals of ASTRA are:
 * Implement real-time telemetry acquisition, visualization, and logging.
 * Create a comprehensive engineering notebook documenting every engineering decision.
 * Validate major subsystems through simulation before hardware implementation.
-* Support autonomous flight stabilization, navigation, and recovery system deployment.
-* Establish a scalable platform for future aerospace research and development.
+* Support autonomous navigation, flight stabilization, and recovery system deployment.
 
 ---
 
@@ -81,9 +80,9 @@ ASTRA follows several core engineering principles:
 4. Modularity over complexity.
 5. Requirements before design.
 6. Verification before validation.
-7. Continuous improvement.
+7. Continuous Improvement.
 
-Every engineering decision shall be supported by analysis, testing, simulation, or documented trade studies.
+Every engineering decision should and shall be justified through analysis, testing, or documented trade studies.
 
 ---
 
@@ -93,45 +92,37 @@ Every engineering decision shall be supported by analysis, testing, simulation, 
 
 Project Planning
 
-Repository Development
+Repository
 
-Engineering Documentation
+Documentation
 
-Systems Engineering
+Architecture
 
-Architecture Development
-
-Simulation Framework
+Simulation
 
 ---
 
 ## Phase II
 
+Avionics
+
 Flight Computer
 
-Power Systems
+Telemetry
 
-Sensor Integration
-
-Telemetry System
-
-Ground Control Station
-
-Software Infrastructure
+Ground Station
 
 ---
 
 ## Phase III
 
-Guidance
-
 Navigation
 
 Sensor Fusion
 
-Flight Control
+Guidance
 
-Health Monitoring
+Flight Control
 
 Recovery System Integration
 
@@ -139,19 +130,15 @@ Recovery System Integration
 
 ## Phase IV
 
-Subsystem Integration
+Integrated Testing
 
-Hardware Validation
+Hardware
 
-Software Validation
-
-Ground Testing
+Simulation
 
 Flight Testing
 
 Mission Operations
-
-Post-Flight Analysis
 
 ---
 
@@ -160,13 +147,11 @@ Post-Flight Analysis
 The ASTRA project will be considered successful if it achieves:
 
 * Comprehensive engineering documentation.
-* Modular subsystem architecture.
-* Reliable Guidance, Navigation, and Control capabilities.
-* Repeatable verification and validation procedures.
-* Robust software and hardware integration.
-* Reliable telemetry acquisition and mission analysis.
-* Successful integrated subsystem operation.
-* Continuous engineering improvement through iterative development.
+* Modular Subsystem architecture.
+* Repeatable Verification Procedures.
+* Reliable Software Architecture.
+* Successful Integrated Subsystem Operation.
+* Continuous Engineering Improvement Through Iterative Development.
 
 ---
 
@@ -174,16 +159,16 @@ The ASTRA project will be considered successful if it achieves:
 
 This engineering notebook shall record every major engineering decision, design revision, analysis, simulation, trade study, and test result produced throughout the ASTRA project lifecycle.
 
-Each notebook entry should provide sufficient technical detail to allow another engineer to understand the reasoning, assumptions, and conclusions behind every engineering decision.
+Each notebook entry should provide sufficient technical detail to allow another engineer to understand the reasoning behind the decisions made.
 
 ---
 
 # Revision History
 
-| Revision | Date       | Description                                                                                                                                                                                                                                                                                              |
-| -------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0.1.0    | 29-06-2026 | Initial project initialization document.                                                                                                                                                                                                                                                                 |
-| 0.2.0    | 01-07-2026 | Updated project vision and objectives to remove autonomous powered landing, expanded Guidance, Navigation, and Control (GNC) focus, added telemetry visualization and mission analysis objectives, refined engineering philosophy, corrected formatting and grammar, and added revision history section. |
+| Revision | Date | Description |
+|----------|------------|-------------|
+| 0.1.0 | 29-06-2026 | Initial project initialization document. |
+| 0.2.0 | 01-07-2026 | Revised project scope to remove autonomous powered landing from the baseline architecture. Updated the project vision and objectives to emphasize autonomous flight stabilization, guidance, navigation, telemetry, and recovery system operations. |
 
 ---
 
