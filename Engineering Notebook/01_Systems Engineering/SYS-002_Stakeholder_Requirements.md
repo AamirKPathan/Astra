@@ -50,7 +50,7 @@ The primary stakeholders for ASTRA include:
 - Future Contributors (Stardance, HackClub)
 - Mission Analyst
 - Safety Officer
-- Physics, Chemistry, And Calculkation
+- Physics, Chemistry, And Calculations (Aamir Khan Pathan, ADI)
 
 ---
 
