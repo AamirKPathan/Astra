@@ -41,8 +41,8 @@ Stakeholder requirements describe the needs, expectations, and operational objec
 
 The primary stakeholders for ASTRA include:
 
-- Project Developer (Aamir Khan Pathan)
-- Flight Operator
+- Project Developers (Aamir Khan Pathan)
+- Flight Operator (Aamir Khan Pathan)
 - Ground Control Operator
 - Test Engineer
 - Systems Engineer
