@@ -45,9 +45,9 @@ The primary stakeholders for ASTRA include:
 - Flight Operator (Aamir Khan Pathan)
 - Ground Control Operator
 - Test Engineer
-- Systems Engineer (Aamir Khan )
+- Systems Engineer (Aamir Khan Pathan)
 - Software Developer (Suhreeth Ayitha)
-- Future Contributors
+- Future Contributors (Stardance, HackClub)
 - Mission Analyst
 - Safety Officer
 - Physics, Chemistry, And Calculkation
