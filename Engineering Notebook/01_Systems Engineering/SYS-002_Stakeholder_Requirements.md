@@ -46,7 +46,7 @@ The primary stakeholders for ASTRA include:
 - Ground Control Operator
 - Test Engineer
 - Systems Engineer
-- Software Developer
+- Software Developer (Suhreeth Ayitha)
 - Future Contributors
 - Mission Analyst
 - Safety Officer
