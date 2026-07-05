@@ -14,5 +14,5 @@
 | STD    | Standards                      |
 | SH     | Stakeholder Requirements       |
 | MR     | Mission Requirements           |
-| IF     | Mission Requirements           |
-| MR     | Mission Requirements           |
+| IF     | Interference                   |
+| MR     | Trade Studies                  |
