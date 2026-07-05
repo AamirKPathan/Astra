@@ -14,3 +14,5 @@
 | STD    | Standards                      |
 | SH     | Stakeholder Requirements       |
 | MR     | Mission Requirements           |
+| IF     | Mission Requirements           |
+| MR     | Mission Requirements           |
