@@ -15,4 +15,4 @@
 | SH     | Stakeholder Requirements       |
 | MR     | Mission Requirements           |
 | IF     | Interference                   |
-| MR     | Trade Studies                  |
+| TS     | Trade Studies                  |
