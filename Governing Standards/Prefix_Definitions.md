@@ -17,3 +17,8 @@
 | IF     | Interference                   |
 | TS     | Trade Studies                  |
 | RSK    | Risk                           |
+| MR     | Matrix Requirement             |
+| I      | Inspection                     |
+| A      | Analysis                       |
+| D      | Demonstration                  |
+| T      | Test                           |
