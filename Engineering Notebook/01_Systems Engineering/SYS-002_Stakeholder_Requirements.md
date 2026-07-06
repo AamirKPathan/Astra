@@ -41,16 +41,16 @@ Stakeholder requirements describe the needs, expectations, and operational objec
 
 The primary stakeholders for ASTRA include:
 
-- Project Developers (Aamir Khan Pathan, Suhreeth Ayitha, ADI, Tristan Wentworth)
+- Project Developers (Aamir Khan Pathan, Suhreeth Ayitha, Tristan Wentworth)
 - Flight Operator (Aamir Khan Pathan)
-- Ground Control Operator (Aamir Khan Pathan, ADI)
-- Test Engineer (ADI, Aamir Khan Pathan)
+- Ground Control Operator (Aamir Khan Pathan,)
+- Test Engineer (Aamir Khan Pathan)
 - Systems Engineer (Aamir Khan Pathan)
 - Software Developer (Suhreeth Ayitha, Tristan Wentworth)
 - Future Contributors (Stardance, HackClub)
 - Mission Analyst (Aamir Khan Pathan)
 - Safety Officer (Aamir Khan Pathan)
-- Physics, Chemistry, And Calculations (Aamir Khan Pathan, ADI)
+- Physics, Chemistry, And Calculations (Aamir Khan Pathan)
 
 ---
 
