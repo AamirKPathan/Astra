@@ -10,7 +10,7 @@ Author:
 Aamir Khan Pathan
 
 Created:
-02-07-2026
+05-07-2026
 
 Revision:
 0.1.0
@@ -187,7 +187,7 @@ The Verification Matrix shall serve as the primary reference for demonstrating c
 
 | Revision | Date | Description |
 |----------|------------|-------------|
-| 0.1.0 | 02-07-2026 | Initial verification matrix framework. |
+| 0.1.0 | 05-07-2026 | Initial verification matrix framework. |
 
 ---
 
