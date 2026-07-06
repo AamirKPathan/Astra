@@ -10,7 +10,7 @@ Author:
 Aamir Khan Pathan
 
 Created:
-02-07-2026
+05-07-2026
 
 Revision:
 0.1.0
@@ -199,7 +199,7 @@ Interface verification shall be documented within the Verification Matrix (SYS-0
 
 | Revision | Date | Description |
 |----------|------------|-------------|
-| 0.1.0 | 02-07-2026 | Initial Interface Control Document (ICD). |
+| 0.1.0 | 05-07-2026 | Initial Interface Control Document (ICD). |
 
 ---
 
